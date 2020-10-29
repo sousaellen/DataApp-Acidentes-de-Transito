@@ -1,0 +1,225 @@
+;tipo_acidente;ano;Qtd Acidentes
+0;atropelamento de animal;2007;3330
+1;atropelamento de animal;2008;3650
+2;atropelamento de animal;2009;3332
+3;atropelamento de animal;2010;3870
+4;atropelamento de animal;2011;4055
+5;atropelamento de animal;2012;3924
+6;atropelamento de animal;2013;3800
+7;atropelamento de animal;2014;2921
+8;atropelamento de animal;2015;2464
+9;atropelamento de animal;2016;2028
+10;atropelamento de animal;2017;2013
+11;atropelamento de animal;2018;1235
+12;atropelamento de animal;2019;1236
+13;atropelamento de animal;2020;683
+14;atropelamento de pedestre;2007;1858
+15;atropelamento de pedestre;2008;2184
+16;atropelamento de pedestre;2009;2339
+17;atropelamento de pedestre;2010;2712
+18;atropelamento de pedestre;2011;2693
+19;atropelamento de pedestre;2012;2548
+20;atropelamento de pedestre;2013;2407
+21;atropelamento de pedestre;2014;2391
+22;atropelamento de pedestre;2015;2133
+23;atropelamento de pedestre;2016;2006
+24;atropelamento de pedestre;2017;3630
+25;atropelamento de pedestre;2018;3374
+26;atropelamento de pedestre;2019;3374
+27;atropelamento de pedestre;2020;1644
+28;capotamento;2007;3431
+29;capotamento;2008;3571
+30;capotamento;2009;3787
+31;capotamento;2010;4721
+32;capotamento;2011;5101
+33;capotamento;2012;5139
+34;capotamento;2013;5041
+35;capotamento;2014;4812
+36;capotamento;2015;4301
+37;capotamento;2016;4473
+38;capotamento;2017;5628
+39;capotamento;2018;2814
+40;capotamento;2019;2270
+41;capotamento;2020;976
+42;colisão com bicicleta;2007;1661
+43;colisão com bicicleta;2008;1598
+44;colisão com bicicleta;2009;1472
+45;colisão com bicicleta;2010;1532
+46;colisão com bicicleta;2011;1390
+47;colisão com bicicleta;2012;1189
+48;colisão com bicicleta;2013;1144
+49;colisão com bicicleta;2014;973
+50;colisão com bicicleta;2015;919
+51;colisão com bicicleta;2016;900
+52;colisão com objeto em movimento;2017;627
+53;colisão com objeto em movimento;2018;399
+54;colisão com objeto em movimento;2019;313
+55;colisão com objeto em movimento;2020;148
+56;colisão com objeto estático;2017;7328
+57;colisão com objeto estático;2018;5057
+58;colisão com objeto estático;2019;4444
+59;colisão com objeto estático;2020;2657
+60;colisão com objeto fixo;2007;4051
+61;colisão com objeto fixo;2008;4336
+62;colisão com objeto fixo;2009;5295
+63;colisão com objeto fixo;2010;6247
+64;colisão com objeto fixo;2011;6581
+65;colisão com objeto fixo;2012;6331
+66;colisão com objeto fixo;2013;6240
+67;colisão com objeto fixo;2014;5731
+68;colisão com objeto fixo;2015;4892
+69;colisão com objeto fixo;2016;4262
+70;colisão com objeto móvel;2007;802
+71;colisão com objeto móvel;2008;808
+72;colisão com objeto móvel;2009;817
+73;colisão com objeto móvel;2010;916
+74;colisão com objeto móvel;2011;862
+75;colisão com objeto móvel;2012;888
+76;colisão com objeto móvel;2013;892
+77;colisão com objeto móvel;2014;736
+78;colisão com objeto móvel;2015;479
+79;colisão com objeto móvel;2016;304
+80;colisão frontal;2007;2909
+81;colisão frontal;2008;3080
+82;colisão frontal;2009;3386
+83;colisão frontal;2010;4234
+84;colisão frontal;2011;4581
+85;colisão frontal;2012;4616
+86;colisão frontal;2013;5019
+87;colisão frontal;2014;5210
+88;colisão frontal;2015;4363
+89;colisão frontal;2016;4007
+90;colisão frontal;2017;4974
+91;colisão frontal;2018;4583
+92;colisão frontal;2019;4403
+93;colisão frontal;2020;2287
+94;colisão lateral;2007;14073
+95;colisão lateral;2008;16281
+96;colisão lateral;2009;17867
+97;colisão lateral;2010;22222
+98;colisão lateral;2011;24199
+99;colisão lateral;2012;23782
+100;colisão lateral;2013;25598
+101;colisão lateral;2014;22371
+102;colisão lateral;2015;13602
+103;colisão lateral;2016;8870
+104;colisão lateral;2017;10599
+105;colisão lateral;2018;8347
+106;colisão lateral;2019;8313
+107;colisão lateral;2020;3912
+108;colisão transversal;2007;9459
+109;colisão transversal;2008;10664
+110;colisão transversal;2009;12264
+111;colisão transversal;2010;15068
+112;colisão transversal;2011;16601
+113;colisão transversal;2012;16238
+114;colisão transversal;2013;16596
+115;colisão transversal;2014;15823
+116;colisão transversal;2015;11677
+117;colisão transversal;2016;9466
+118;colisão transversal;2017;10209
+119;colisão transversal;2018;8615
+120;colisão transversal;2019;8762
+121;colisão transversal;2020;4218
+122;colisão traseira;2007;24607
+123;colisão traseira;2008;27870
+124;colisão traseira;2009;33064
+125;colisão traseira;2010;41222
+126;colisão traseira;2011;44338
+127;colisão traseira;2012;45321
+128;colisão traseira;2013;48123
+129;colisão traseira;2014;42431
+130;colisão traseira;2015;25877
+131;colisão traseira;2016;16092
+132;colisão traseira;2017;16147
+133;colisão traseira;2018;12941
+134;colisão traseira;2019;13075
+135;colisão traseira;2020;5956
+136;danos eventuais;2007;413
+137;danos eventuais;2008;520
+138;danos eventuais;2009;535
+139;danos eventuais;2010;584
+140;danos eventuais;2011;647
+141;danos eventuais;2012;574
+142;danos eventuais;2013;567
+143;danos eventuais;2014;452
+144;danos eventuais;2015;289
+145;danos eventuais;2016;176
+146;danos eventuais;2017;366
+147;danos eventuais;2018;222
+148;danos eventuais;2019;181
+149;danos eventuais;2020;134
+150;derramamento de carga;2007;234
+151;derramamento de carga;2008;232
+152;derramamento de carga;2009;278
+153;derramamento de carga;2010;319
+154;derramamento de carga;2011;378
+155;derramamento de carga;2012;386
+156;derramamento de carga;2013;433
+157;derramamento de carga;2014;448
+158;derramamento de carga;2015;312
+159;derramamento de carga;2016;208
+160;derramamento de carga;2017;372
+161;derramamento de carga;2018;236
+162;derramamento de carga;2019;166
+163;derramamento de carga;2020;101
+164;engavetamento;2017;1196
+165;engavetamento;2018;991
+166;engavetamento;2019;918
+167;engavetamento;2020;447
+168;incêndio;2007;270
+169;incêndio;2008;273
+170;incêndio;2009;329
+171;incêndio;2010;381
+172;incêndio;2011;458
+173;incêndio;2012;513
+174;incêndio;2013;602
+175;incêndio;2014;611
+176;incêndio;2015;598
+177;incêndio;2016;640
+178;incêndio;2017;1055
+179;incêndio;2018;931
+180;incêndio;2019;1109
+181;incêndio;2020;595
+182;queda de motocicleta / bicicleta / veículo;2007;1417
+183;queda de motocicleta / bicicleta / veículo;2008;1797
+184;queda de motocicleta / bicicleta / veículo;2009;2282
+185;queda de motocicleta / bicicleta / veículo;2010;2749
+186;queda de motocicleta / bicicleta / veículo;2011;3044
+187;queda de motocicleta / bicicleta / veículo;2012;3011
+188;queda de motocicleta / bicicleta / veículo;2013;3232
+189;queda de motocicleta / bicicleta / veículo;2014;3381
+190;queda de motocicleta / bicicleta / veículo;2015;3391
+191;queda de motocicleta / bicicleta / veículo;2016;3477
+192;queda de ocupante de veículo;2017;3621
+193;queda de ocupante de veículo;2018;3032
+194;queda de ocupante de veículo;2019;3292
+195;queda de ocupante de veículo;2020;1547
+196;saída de leito carroçável;2017;15679
+197;saída de leito carroçável;2018;11333
+198;saída de leito carroçável;2019;10297
+199;saída de leito carroçável;2020;5693
+200;saída de pista;2007;9877
+201;saída de pista;2008;11098
+202;saída de pista;2009;12900
+203;saída de pista;2010;15899
+204;saída de pista;2011;16587
+205;saída de pista;2012;15882
+206;saída de pista;2013;18329
+207;saída de pista;2014;17223
+208;saída de pista;2015;13831
+209;saída de pista;2016;11216
+210;tombamento;2007;3312
+211;tombamento;2008;3108
+212;tombamento;2009;3150
+213;tombamento;2010;3920
+214;tombamento;2011;4303
+215;tombamento;2012;4638
+216;tombamento;2013;4666
+217;tombamento;2014;4694
+218;tombamento;2015;3966
+219;tombamento;2016;3569
+220;tombamento;2017;6118
+221;tombamento;2018;5171
+222;tombamento;2019;5143
+223;tombamento;2020;3009

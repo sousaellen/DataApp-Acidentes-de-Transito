@@ -1,0 +1,196 @@
+;causa_acidente;ano;Qtd Acidentes
+0;agressão externa;2017;2
+1;agressão externa;2018;356
+2;agressão externa;2019;384
+3;agressão externa;2020;195
+4;animais na pista;2007;4202
+5;animais na pista;2008;4582
+6;animais na pista;2009;4205
+7;animais na pista;2010;4803
+8;animais na pista;2011;5008
+9;animais na pista;2012;4834
+10;animais na pista;2013;4768
+11;animais na pista;2014;3737
+12;animais na pista;2015;3079
+13;animais na pista;2016;2605
+14;animais na pista;2017;2623
+15;animais na pista;2018;1614
+16;animais na pista;2019;1526
+17;animais na pista;2020;825
+18;avarias e/ou desgaste excessivo no pneu;2017;1588
+19;avarias e/ou desgaste excessivo no pneu;2018;1011
+20;avarias e/ou desgaste excessivo no pneu;2019;797
+21;avarias e/ou desgaste excessivo no pneu;2020;501
+22;carga excessiva e/ou mal acondicionada;2017;545
+23;carga excessiva e/ou mal acondicionada;2018;367
+24;carga excessiva e/ou mal acondicionada;2019;304
+25;carga excessiva e/ou mal acondicionada;2020;186
+26;condutor dormindo;2017;3798
+27;condutor dormindo;2018;2632
+28;condutor dormindo;2019;2480
+29;condutor dormindo;2020;1144
+30;defeito mecânico em veículo;2007;5403
+31;defeito mecânico em veículo;2008;5858
+32;defeito mecânico em veículo;2009;6019
+33;defeito mecânico em veículo;2010;6943
+34;defeito mecânico em veículo;2011;6981
+35;defeito mecânico em veículo;2012;6831
+36;defeito mecânico em veículo;2013;7161
+37;defeito mecânico em veículo;2014;6885
+38;defeito mecânico em veículo;2015;5729
+39;defeito mecânico em veículo;2016;5111
+40;defeito mecânico no veículo;2017;4649
+41;defeito mecânico no veículo;2018;3715
+42;defeito mecânico no veículo;2019;3725
+43;defeito mecânico no veículo;2020;2060
+44;defeito na via;2007;2348
+45;defeito na via;2008;2191
+46;defeito na via;2009;2611
+47;defeito na via;2010;2414
+48;defeito na via;2011;2790
+49;defeito na via;2012;2339
+50;defeito na via;2013;2740
+51;defeito na via;2014;2598
+52;defeito na via;2015;1993
+53;defeito na via;2016;1571
+54;defeito na via;2017;1422
+55;defeito na via;2018;1126
+56;defeito na via;2019;973
+57;defeito na via;2020;633
+58;deficiência ou não acionamento do sistema de iluminação/sinalização do veículo;2017;235
+59;deficiência ou não acionamento do sistema de iluminação/sinalização do veículo;2018;186
+60;deficiência ou não acionamento do sistema de iluminação/sinalização do veículo;2019;160
+61;deficiência ou não acionamento do sistema de iluminação/sinalização do veículo;2020;98
+62;desobediência à sinalização;2007;4041
+63;desobediência à sinalização;2008;4591
+64;desobediência à sinalização;2009;5171
+65;desobediência à sinalização;2010;7157
+66;desobediência à sinalização;2011;7823
+67;desobediência à sinalização;2012;7789
+68;desobediência à sinalização;2013;8078
+69;desobediência à sinalização;2014;8167
+70;desobediência à sinalização;2015;6015
+71;desobediência à sinalização;2016;4852
+72;desobediência às normas de trânsito pelo condutor;2017;5219
+73;desobediência às normas de trânsito pelo condutor;2018;7187
+74;desobediência às normas de trânsito pelo condutor;2019;8080
+75;desobediência às normas de trânsito pelo condutor;2020;4571
+76;desobediência às normas de trânsito pelo pedestre;2017;1
+77;desobediência às normas de trânsito pelo pedestre;2018;273
+78;desobediência às normas de trânsito pelo pedestre;2019;390
+79;desobediência às normas de trânsito pelo pedestre;2020;214
+80;dormindo;2007;3364
+81;dormindo;2008;3330
+82;dormindo;2009;3335
+83;dormindo;2010;4402
+84;dormindo;2011;4404
+85;dormindo;2012;4624
+86;dormindo;2013;4827
+87;dormindo;2014;4793
+88;dormindo;2015;4067
+89;dormindo;2016;3763
+90;falta de atenção;2007;42253
+91;falta de atenção;2008;46306
+92;falta de atenção;2009;52070
+93;falta de atenção;2010;60879
+94;falta de atenção;2011;63523
+95;falta de atenção;2012;61204
+96;falta de atenção;2013;62852
+97;falta de atenção;2014;55088
+98;falta de atenção;2015;36804
+99;falta de atenção;2016;26450
+100;falta de atenção do pedestre;2017;2390
+101;falta de atenção do pedestre;2018;2073
+102;falta de atenção do pedestre;2019;1967
+103;falta de atenção do pedestre;2020;957
+104;falta de atenção à condução;2017;34507
+105;falta de atenção à condução;2018;25824
+106;falta de atenção à condução;2019;24923
+107;falta de atenção à condução;2020;11736
+108;fenômenos da natureza;2017;442
+109;fenômenos da natureza;2018;310
+110;fenômenos da natureza;2019;230
+111;fenômenos da natureza;2020;110
+112;ingestão de substâncias psicoativas;2017;78
+113;ingestão de substâncias psicoativas;2018;73
+114;ingestão de substâncias psicoativas;2019;94
+115;ingestão de substâncias psicoativas;2020;47
+116;ingestão de álcool;2007;3106
+117;ingestão de álcool;2008;3561
+118;ingestão de álcool;2009;4813
+119;ingestão de álcool;2010;6805
+120;ingestão de álcool;2011;7559
+121;ingestão de álcool;2012;7593
+122;ingestão de álcool;2013;7527
+123;ingestão de álcool;2014;7391
+124;ingestão de álcool;2015;6745
+125;ingestão de álcool;2016;6332
+126;ingestão de álcool;2017;6448
+127;ingestão de álcool;2018;5199
+128;ingestão de álcool;2019;5409
+129;ingestão de álcool;2020;2729
+130;ingestão de álcool e/ou substâncias psicoativas pelo pedestre;2018;297
+131;ingestão de álcool e/ou substâncias psicoativas pelo pedestre;2019;394
+132;ingestão de álcool e/ou substâncias psicoativas pelo pedestre;2020;202
+133;mal súbito;2017;972
+134;mal súbito;2018;677
+135;mal súbito;2019;715
+136;mal súbito;2020;340
+137;não guardar distância de segurança;2007;8137
+138;não guardar distância de segurança;2008;9742
+139;não guardar distância de segurança;2009;11476
+140;não guardar distância de segurança;2010;15588
+141;não guardar distância de segurança;2011;17311
+142;não guardar distância de segurança;2012;18804
+143;não guardar distância de segurança;2013;21571
+144;não guardar distância de segurança;2014;19588
+145;não guardar distância de segurança;2015;11402
+146;não guardar distância de segurança;2016;6361
+147;não guardar distância de segurança;2017;5837
+148;não guardar distância de segurança;2018;4261
+149;não guardar distância de segurança;2019;4197
+150;não guardar distância de segurança;2020;1822
+151;objeto estático sobre o leito carroçável;2017;769
+152;objeto estático sobre o leito carroçável;2018;539
+153;objeto estático sobre o leito carroçável;2019;436
+154;objeto estático sobre o leito carroçável;2020;239
+155;pista escorregadia;2017;4253
+156;pista escorregadia;2018;2549
+157;pista escorregadia;2019;2183
+158;pista escorregadia;2020;1183
+159;restrição de visibilidade;2017;884
+160;restrição de visibilidade;2018;539
+161;restrição de visibilidade;2019;493
+162;restrição de visibilidade;2020;289
+163;sinalização da via insuficiente ou inadequada;2017;414
+164;sinalização da via insuficiente ou inadequada;2018;292
+165;sinalização da via insuficiente ou inadequada;2019;247
+166;sinalização da via insuficiente ou inadequada;2020;131
+167;ultrapassagem indevida;2007;2839
+168;ultrapassagem indevida;2008;2994
+169;ultrapassagem indevida;2009;3073
+170;ultrapassagem indevida;2010;3932
+171;ultrapassagem indevida;2011;4249
+172;ultrapassagem indevida;2012;4134
+173;ultrapassagem indevida;2013;4472
+174;ultrapassagem indevida;2014;4245
+175;ultrapassagem indevida;2015;2998
+176;ultrapassagem indevida;2016;2327
+177;ultrapassagem indevida;2017;2054
+178;ultrapassagem indevida;2018;1333
+179;ultrapassagem indevida;2019;1171
+180;ultrapassagem indevida;2020;567
+181;velocidade incompatível;2007;6011
+182;velocidade incompatível;2008;7915
+183;velocidade incompatível;2009;10324
+184;velocidade incompatível;2010;13673
+185;velocidade incompatível;2011;16169
+186;velocidade incompatível;2012;16827
+187;velocidade incompatível;2013;18693
+188;velocidade incompatível;2014;17716
+189;velocidade incompatível;2015;14262
+190;velocidade incompatível;2016;12322
+191;velocidade incompatível;2017;10432
+192;velocidade incompatível;2018;6848
+193;velocidade incompatível;2019;6018
+194;velocidade incompatível;2020;3228
